@@ -92,7 +92,7 @@ $ composer require phpunit/phpunit --dev
 
 ```sh
 $ vendor/bin/phpunit --generate-configuration
-PHPUnit 9.5.20-37-g3a36f4d48 #StandWithUkraine
+PHPUnit 9.5.20-37-g3a36f4d48
 
 Generating phpunit.xml in C:\Users\Usuario\GitHub\jagarsoft\submodule-a
 
@@ -104,7 +104,6 @@ Cache directory (relative to path shown above; default: .phpunit.cache):
 Generated phpunit.xml in C:\Users\Usuario\GitHub\jagarsoft\submodule-a.
 Make sure to exclude the .phpunit.cache directory from version control.
 
-Usuario@DESKTOP-RUQJ5VU MINGW64 ~/GitHub/jagarsoft/submodule-a (main)
 $ echo .phpunit.cache/ >> .gitignore
 
 ```

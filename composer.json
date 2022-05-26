@@ -1,0 +1,23 @@
+{
+    "name": "jagarsoft/submodule-a",
+    "description": "An use case of submodules in Git. This is a Framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Javier Garrido",
+            "email": "jagarsoft2000@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "GPL-2.0-only",
+    "minimum-stability": "dev",
+    "config": {
+      "optimize-autoloader": true
+    },
+    "require": {
+      "php": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    }
+}

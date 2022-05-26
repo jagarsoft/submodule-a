@@ -1,0 +1,3 @@
+[submodule "App/Module/submodule-b"]
+	path = App/Module/submodule-b
+	url = https://github.com/jagarsoft/submodule-b.git
